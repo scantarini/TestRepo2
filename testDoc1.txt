@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test - in branch b1 - in branch b2
+=======
+test - branch2 again
+>>>>>>> b2
